@@ -19,7 +19,6 @@ function setZerosMatrix(arr) {
   return arr;
 }
 
-// Example usage:
 const matrix = [
   [0, 1, 2, 0],
   [3, 4, 5, 2],
